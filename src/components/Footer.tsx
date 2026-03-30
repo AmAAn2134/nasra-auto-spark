@@ -40,11 +40,11 @@ const Footer = () => {
           <div>
             <h4 className="font-heading text-xl text-foreground mb-4">CONTACT INFO</h4>
             <div className="space-y-3 text-sm text-muted-foreground">
-              <a href="tel:+919999999999" className="flex items-center gap-2 hover:text-primary transition-colors">
-                <Phone className="w-4 h-4" /> +91 99999 99999
+              <a href="tel:+918320620969" className="flex items-center gap-2 hover:text-primary transition-colors">
+                <Phone className="w-4 h-4" /> +91 83206 20969
               </a>
-              <a href="mailto:info@nasraautoparts.com" className="flex items-center gap-2 hover:text-primary transition-colors">
-                <Mail className="w-4 h-4" /> info@nasraautoparts.com
+              <a href="mailto:saiyedadnans.a34@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors">
+                <Mail className="w-4 h-4" /> saiyedadnans.a34@gmail.com
               </a>
               <a href="https://instagram.com/nasraautoparts" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-primary transition-colors">
                 <Instagram className="w-4 h-4" /> @nasraautoparts
