@@ -33,7 +33,7 @@ const Navbar = () => {
             </a>
           ))}
           <Button asChild>
-            <a href="tel:+919999999999" className="gap-2">
+            <a href="tel:+918320620969" className="gap-2">
               <Phone className="w-4 h-4" /> Call Now
             </a>
           </Button>
