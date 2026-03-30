@@ -5,6 +5,7 @@ import ProductsSection from "@/components/ProductsSection";
 import WhyChooseUsSection from "@/components/WhyChooseUsSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 const Index = () => {
   return (
@@ -16,6 +17,7 @@ const Index = () => {
       <WhyChooseUsSection />
       <ContactSection />
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 };
