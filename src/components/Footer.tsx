@@ -46,8 +46,8 @@ const Footer = () => {
               <a href="mailto:saiyedadnans.a34@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors">
                 <Mail className="w-4 h-4" /> saiyedadnans.a34@gmail.com
               </a>
-              <a href="https://instagram.com/nasraautoparts" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-primary transition-colors">
-                <Instagram className="w-4 h-4" /> @nasraautoparts
+              <a href="https://instagram.com/nasra_autoparts/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-primary transition-colors">
+                <Instagram className="w-4 h-4" /> @nasra_autoparts
               </a>
             </div>
           </div>
