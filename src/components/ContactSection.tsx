@@ -60,7 +60,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h3 className="font-heading text-xl text-foreground">Business Hours</h3>
-                <p className="text-muted-foreground">Mon – Sat: 9:00 AM – 8:00 PM</p>
+                <p className="text-muted-foreground">Mon – Sat: 10:00 AM – 7:00 PM</p>
               </div>
             </div>
 
@@ -71,7 +71,7 @@ const ContactSection = () => {
               <div>
                 <h3 className="font-heading text-xl text-foreground">Instagram</h3>
                 <a href="https://instagram.com/nasraautoparts" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
-                  @nasraautoparts
+                  @nasra_autoparts
                 </a>
               </div>
             </div>
